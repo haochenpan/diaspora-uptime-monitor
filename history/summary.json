@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 82,
-    "timeWeek": 82,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://flask-service.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/",
     "icon": "assets/octopus.png",
     "slug": "diaspora-action-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "95.16%",
     "uptimeDay": "95.16%",
     "uptimeWeek": "95.16%",
     "uptimeMonth": "95.16%",
     "uptimeYear": "95.16%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
       "2024-05-27": 20
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   }
 ]
