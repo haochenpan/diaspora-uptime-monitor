@@ -23,18 +23,18 @@
     "icon": "assets/octopus.png",
     "slug": "diaspora-action-provider",
     "status": "up",
-    "uptime": "92.16%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "92.16%",
-    "uptimeMonth": "92.16%",
-    "uptimeYear": "92.16%",
+    "uptime": "95.34%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "95.34%",
+    "uptimeYear": "95.34%",
     "time": 187,
     "timeDay": 187,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-05-27": 34
+      "2024-05-27": 20
     }
   },
   {
