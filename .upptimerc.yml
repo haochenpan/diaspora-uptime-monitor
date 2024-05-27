@@ -1,4 +1,4 @@
-owner: haochenpan
+owner: Diaspora
 repo: diaspora-uptime-monitor
 
 sites:
@@ -14,9 +14,6 @@ sites:
     url: http://100.27.155.7/
     icon: assets/octopus.png
 
-  - name: Google
-    url: https://www.google.com
-
 # octopus icon: https://www.flaticon.com/free-icons/octopus
 
 assignees:
@@ -25,14 +22,12 @@ assignees:
 status-website:
   baseUrl: /diaspora-uptime-monitor # where "repo" is your repository name
   name: Diaspora Uptime Monitor
-  # # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  # # baseUrl: /your-repo-name
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  # name: Upptime
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: ocean
+
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  favicon: assets/octopus.png
+
   navbar:
     - title: Status
       href: /
