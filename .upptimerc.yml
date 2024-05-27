@@ -2,21 +2,17 @@ owner: haochenpan
 repo: diaspora-uptime-monitor
 
 sites:
+  - name: Diaspora Web Service
+    url: http://3.220.110.101/
+
+  - name: Diaspora Action Provider
+    url: https://flask-service.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/
+
   - name: Diaspora Admin Console
     url: http://100.27.155.7/
+
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 assignees:
   - haochenpan
