@@ -1,4 +1,4 @@
-# [📈 Live Status](https://haochenpan.github.io/diaspora-uptime-monitor): <!--live status--> **🟩 All systems operational**
+# [📈 Service Live Status](https://haochenpan.github.io/diaspora-uptime-monitor)
 
 [![Uptime CI](https://github.com/haochenpan/diaspora-uptime-monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/haochenpan/diaspora-uptime-monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/haochenpan/diaspora-uptime-monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/haochenpan/diaspora-uptime-monitor/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -22,11 +22,13 @@ This repository contains the open-source uptime monitor and status page for the 
 
 [**Visit our status website →**](https://haochenpan.github.io/diaspora-uptime-monitor)
 
-| Project                  | Repository URL                                                   | Docs                                              | Demo                                                                               |
-|--------------------------|------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------|
-| Diaspora SDK             | [GitHub](github.com/globus-labs/diaspora-event-sdk)              |                                                   | [Notebook](github.com/globus-labs/diaspora-event-sdk/blob/main/DiasporaDemo.ipynb) |
-| Diaspora Web Service     | [GitHub](github.com/globus-labs/diaspora-web-service)            |                                                   | See above                                                                          |
-| Diaspora Action Provider | [GitHub](github.com/globus-labs/diaspora-action-provider)        | [Docs](labs.globus.org/diaspora-action-provider/) | [Notebook](github.com/globus-labs/diaspora-action-provider/tree/main/examples)     |
-| Diaspora Uptime Monitor  | [GitHub](github.com/haochenpan/diaspora-uptime-monitor)          |                                                   |                                                                                    |
-| Diaspora Admin Console   | [GitHub (Private)](github.com/haochenpan/kui-lightsail-compose)  |                                                   |                                                                                    |
-| Benchmarking Diaspora    | [GitHub (Private)](github.com/globus-labs/benchmarking-diaspora) |                                                   |                                                                                    |
+# Diaspora Repositories
+
+| Project                  | Repository URL                                                   | Docs                                              | Demo                                                                               | Live Status |
+|--------------------------|------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------|-------------|
+| Diaspora SDK             | [GitHub](github.com/globus-labs/diaspora-event-sdk)              |                                                   | [Notebook](github.com/globus-labs/diaspora-event-sdk/blob/main/DiasporaDemo.ipynb) |             |
+| Diaspora Web Service     | [GitHub (Private)](github.com/globus-labs/diaspora-web-service)  |                                                   | See above                                                                          | See above   |
+| Diaspora Action Provider | [GitHub](github.com/globus-labs/diaspora-action-provider)        | [Docs](labs.globus.org/diaspora-action-provider/) | [Notebook](github.com/globus-labs/diaspora-action-provider/tree/main/examples)     | See above   |
+| Diaspora Uptime Monitor  | [GitHub](github.com/haochenpan/diaspora-uptime-monitor)          |                                                   |                                                                                    |             |
+| Diaspora Admin Console   | [GitHub (Private)](github.com/haochenpan/kui-lightsail-compose)  |                                                   |                                                                                    | See above   |
+| Benchmarking Diaspora    | [GitHub (Private)](github.com/globus-labs/benchmarking-diaspora) |                                                   |                                                                                    |             |
