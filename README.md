@@ -21,3 +21,12 @@ This repository contains the open-source uptime monitor and status page for the 
 <!--end: status pages-->
 
 [**Visit our status website →**](https://haochenpan.github.io/diaspora-uptime-monitor)
+
+| Project                  | Repository URL                                                   | Docs                                              | Demo                                                                               |
+|--------------------------|------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------|
+| Diaspora SDK             | [GitHub](github.com/globus-labs/diaspora-event-sdk)              |                                                   | [Notebook](github.com/globus-labs/diaspora-event-sdk/blob/main/DiasporaDemo.ipynb) |
+| Diaspora Web Service     | [GitHub](github.com/globus-labs/diaspora-web-service)            |                                                   | See above                                                                          |
+| Diaspora Action Provider | [GitHub](github.com/globus-labs/diaspora-action-provider)        | [Docs](labs.globus.org/diaspora-action-provider/) | [Notebook](github.com/globus-labs/diaspora-action-provider/tree/main/examples)     |
+| Diaspora Uptime Monitor  | [GitHub](github.com/haochenpan/diaspora-uptime-monitor)          |                                                   |                                                                                    |
+| Diaspora Admin Console   | [GitHub (Private)](github.com/haochenpan/kui-lightsail-compose)  |                                                   |                                                                                    |
+| Benchmarking Diaspora    | [GitHub (Private)](github.com/globus-labs/benchmarking-diaspora) |                                                   |                                                                                    |
