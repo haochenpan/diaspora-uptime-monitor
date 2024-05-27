@@ -1,7 +1,7 @@
 url: https://flask-service.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/
-status: down
-code: 503
-responseTime: 111
-lastUpdated: 2024-05-27T20:48:09.690Z
+status: up
+code: 200
+responseTime: 115
+lastUpdated: 2024-05-27T21:08:03.611Z
 startTime: 2024-05-27T14:17:51.361Z
 generator: Upptime <https://github.com/upptime/upptime>
