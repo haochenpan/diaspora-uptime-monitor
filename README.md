@@ -22,7 +22,7 @@ This repository contains the open-source uptime monitor and status page for the 
 
 [**Visit our status website →**](https://haochenpan.github.io/diaspora-uptime-monitor)
 
-# Diaspora Repositories
+# 💾 Diaspora Repositories
 
 | Project                  | Repository URL                                                   | Docs                                              | Demo                                                                               | Live Status |
 |--------------------------|------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------|-------------|
