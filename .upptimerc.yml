@@ -7,7 +7,7 @@ sites:
     icon: assets/octopus.png
 
   - name: Diaspora Action Provider
-    url: https://flask-service.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/
+    url: https://diaspora-action-provider.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/
     icon: assets/octopus.png
 
   - name: Diaspora Admin Console
@@ -34,13 +34,13 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  graphs: "*/15 * * * *"
-  responseTime: "*/15 * * * *"
-  staticSite: "*/15 * * * *"
-  summary: "*/15 * * * *"
-  updateTemplate: "*/15 * * * *"
-  updates: "*/15 * * * *"
-  uptime: "*/15 * * * *"
+  graphs: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
+  uptime: "*/10 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
