@@ -25,11 +25,12 @@ This repository contains the open-source uptime monitor and status page for the 
 
 # 🗃️ Diaspora Repositories
 
-| Project                  | Repository URL                                                   | Docs                                              | Demo                                                                               | Live Status |
-| ------------------------ | ---------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------- |
-| Diaspora SDK             | [GitHub](github.com/globus-labs/diaspora-event-sdk)              |                                                   | [Notebook](github.com/globus-labs/diaspora-event-sdk/blob/main/DiasporaDemo.ipynb) |             |
-| Diaspora Web Service     | [GitHub (Private)](github.com/globus-labs/diaspora-web-service)  |                                                   | See above                                                                          | See above   |
-| Diaspora Action Provider | [GitHub](github.com/globus-labs/diaspora-action-provider)        | [Docs](labs.globus.org/diaspora-action-provider/) | [Notebook](github.com/globus-labs/diaspora-action-provider/tree/main/examples)     | See above   |
-| Diaspora Uptime Monitor  | [GitHub](github.com/haochenpan/diaspora-uptime-monitor)          |                                                   |                                                                                    |             |
-| Diaspora Admin Console   | [GitHub (Private)](github.com/haochenpan/kui-lightsail-compose)  |                                                   |                                                                                    | See above   |
-| Benchmarking Diaspora    | [GitHub (Private)](github.com/globus-labs/benchmarking-diaspora) |                                                   |                                                                                    |             |
+| Project                             | Repository URL                                                              | Docs                                                  |
+|-------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------|
+| Diaspora SDK                        | [GitHub](https://github.com/globus-labs/diaspora-event-sdk)                 |                                                       |
+| Diaspora Service                    | [GitHub](https://github.com/haochenpan/diaspora-service)                    | [Docs](https://haochenpan.github.io/diaspora-service) |
+| Diaspora Uptime Monitor             | [GitHub](https://github.com/haochenpan/diaspora-uptime-monitor)             |                                                       |
+| Benchmarking Diaspora               | [GitHub (Private)](https://github.com/globus-labs/benchmarking-diaspora)    |                                                       |
+| Diaspora Web Service (Archived)     | [GitHub (Private)](https://github.com/globus-labs/diaspora-web-service)     |                                                       |
+| Diaspora Action Provider (Archived) | [GitHub (Private)](https://github.com/globus-labs/diaspora-action-provider) |                                                       |
+| Diaspora Admin Console (Archived)   | [GitHub (Private)](https://github.com/haochenpan/kui-lightsail-compose)     |                                                       |
