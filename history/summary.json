@@ -43,18 +43,18 @@
     "icon": "assets/octopus.png",
     "slug": "diaspora-admin-console",
     "status": "down",
-    "uptime": "99.85%",
+    "uptime": "99.79%",
     "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 131,
     "timeDay": 156,
     "timeWeek": 133,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-06-12": 0,
+      "2024-06-12": 14,
       "2024-06-11": 17,
       "2024-06-02": 16
     }
