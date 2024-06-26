@@ -8,9 +8,12 @@ sites:
   - name: Diaspora Action Provider
     url: https://diaspora-action-provider.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/
     icon: assets/octopus.png
-  - name: Diaspora Admin Console
+  - name: Diaspora Kafka Console
     url: http://100.27.155.7/
-    icon: assets/octopus.png
+    icon: assets/kafka-ui.png
+  - name: Diaspora Grafana Console
+    url: http://100.29.137.186/
+    icon: assets/grafana.png
 
 # octopus icon: https://www.flaticon.com/free-icons/octopus
 
