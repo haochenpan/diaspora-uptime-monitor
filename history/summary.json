@@ -42,19 +42,19 @@
     "url": "http://100.27.155.7/",
     "icon": "assets/kafka-ui.png",
     "slug": "diaspora-kafka-console",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 83,
-    "timeWeek": 84,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 87,
+    "timeDay": 87,
+    "timeWeek": 85,
+    "timeMonth": 87,
+    "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 18
     }
   },
   {
