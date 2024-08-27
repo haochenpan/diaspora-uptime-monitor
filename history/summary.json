@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 192,
-    "timeWeek": 240,
+    "timeDay": 208,
+    "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "assets/octopus.png",
     "slug": "diaspora-action-provider",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 221,
-    "timeDay": 556,
-    "timeWeek": 290,
+    "uptimeYear": "99.99%",
+    "time": 222,
+    "timeDay": 570,
+    "timeWeek": 292,
     "timeMonth": 237,
-    "timeYear": 221,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2024-05-27": 20
     }
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 88,
-    "timeDay": 62,
-    "timeWeek": 93,
+    "timeDay": 70,
+    "timeWeek": 94,
     "timeMonth": 89,
     "timeYear": 88,
     "dailyMinutesDown": {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 81,
-    "timeWeek": 125,
-    "timeMonth": 118,
+    "timeDay": 93,
+    "timeWeek": 127,
+    "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {}
   }
