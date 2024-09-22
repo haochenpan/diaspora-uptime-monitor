@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 280,
-    "timeWeek": 243,
+    "timeDay": 278,
+    "timeWeek": 244,
     "timeMonth": 259,
     "timeYear": 235,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 267,
-    "timeWeek": 238,
-    "timeMonth": 245,
+    "timeDay": 266,
+    "timeWeek": 239,
+    "timeMonth": 246,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-05-27": 20
@@ -50,8 +50,8 @@
     "uptimeYear": "99.99%",
     "time": 88,
     "timeDay": 111,
-    "timeWeek": 90,
-    "timeMonth": 89,
+    "timeWeek": 91,
+    "timeMonth": 90,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2024-07-16": 18
@@ -63,14 +63,14 @@
     "icon": "assets/grafana.png",
     "slug": "diaspora-grafana-console",
     "status": "up",
-    "uptime": "89.84%",
+    "uptime": "89.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "28.88%",
+    "uptimeWeek": "29.45%",
     "uptimeMonth": "70.81%",
-    "uptimeYear": "89.84%",
+    "uptimeYear": "89.85%",
     "time": 116,
     "timeDay": 141,
-    "timeWeek": 115,
+    "timeWeek": 119,
     "timeMonth": 118,
     "timeYear": 116,
     "dailyMinutesDown": {
