@@ -4,19 +4,19 @@
     "url": "https://diaspora-web-service.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/",
     "icon": "assets/octopus.png",
     "slug": "diaspora-web-service",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "93.79%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.94%",
     "time": 239,
-    "timeDay": 627,
-    "timeWeek": 299,
+    "timeDay": 606,
+    "timeWeek": 298,
     "timeMonth": 274,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-09-24": 89
+      "2024-09-24": 102
     }
   },
   {
@@ -67,7 +67,7 @@
     "status": "up",
     "uptime": "90.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.53%",
+    "uptimeWeek": "53.66%",
     "uptimeMonth": "70.81%",
     "uptimeYear": "90.04%",
     "time": 117,
