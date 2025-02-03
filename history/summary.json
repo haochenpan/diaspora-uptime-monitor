@@ -65,7 +65,7 @@
     "slug": "diaspora-kafka-console",
     "status": "up",
     "uptime": "85.41%",
-    "uptimeDay": "0.10%",
+    "uptimeDay": "1.00%",
     "uptimeWeek": "42.29%",
     "uptimeMonth": "56.57%",
     "uptimeYear": "85.41%",
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-02-03": 1021,
+      "2025-02-03": 1034,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
