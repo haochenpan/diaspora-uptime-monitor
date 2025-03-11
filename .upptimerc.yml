@@ -3,17 +3,17 @@ repo: diaspora-uptime-monitor
 
 sites:
   - name: Diaspora Web Service
-    url: https://diaspora-web-service.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/
+    url: https://diaspora-web-service.qpp943wkvr7b2.us-east-1.cs.amazonlightsail.com/
     icon: assets/octopus.png
   - name: Diaspora Action Provider
-    url: https://diaspora-action-provider.ml22sevubfnks.us-east-1.cs.amazonlightsail.com/
+    url: https://diaspora-action-provider.qpp943wkvr7b2.us-east-1.cs.amazonlightsail.com/
     icon: assets/octopus.png
   - name: Diaspora Kafka Console
-    url: http://100.27.155.7/
+    url: http://184.73.61.163/
     icon: assets/kafka-ui.png
-  - name: Diaspora Grafana Console
-    url: http://100.29.137.186/
-    icon: assets/grafana.png
+  # - name: Diaspora Grafana Console
+    # url: http://100.29.137.186/
+    # icon: assets/grafana.png
 
 # octopus icon: https://www.flaticon.com/free-icons/octopus
 
