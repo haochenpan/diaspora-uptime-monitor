@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 276,
-    "timeDay": 245,
+    "timeDay": 242,
     "timeWeek": 268,
     "timeMonth": 274,
     "timeYear": 276,
@@ -51,13 +51,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 234,
-    "timeDay": 250,
+    "timeDay": 249,
     "timeWeek": 267,
     "timeMonth": 269,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-03-11": 392,
-      "2024-05-27": 20
+      "2025-03-11": 392
     }
   },
   {
@@ -66,13 +65,13 @@
     "icon": "assets/kafka-ui.png",
     "slug": "diaspora-kafka-console",
     "status": "up",
-    "uptime": "86.26%",
+    "uptime": "86.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.37%",
-    "uptimeYear": "86.26%",
+    "uptimeYear": "86.27%",
     "time": 89,
-    "timeDay": 56,
+    "timeDay": 58,
     "timeWeek": 86,
     "timeMonth": 88,
     "timeYear": 89,
