@@ -5,15 +5,15 @@
     "icon": "assets/octopus.png",
     "slug": "diaspora-web-service",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.39%",
+    "uptimeYear": "99.40%",
     "time": 276,
     "timeDay": 241,
     "timeWeek": 258,
-    "timeMonth": 274,
+    "timeMonth": 273,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2025-03-11": 392,
@@ -53,7 +53,7 @@
     "time": 234,
     "timeDay": 217,
     "timeWeek": 258,
-    "timeMonth": 268,
+    "timeMonth": 267,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-03-11": 392
@@ -73,7 +73,7 @@
     "time": 89,
     "timeDay": 49,
     "timeWeek": 75,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2025-05-15": 211,
