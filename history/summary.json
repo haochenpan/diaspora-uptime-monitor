@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 281,
-    "timeDay": 287,
-    "timeWeek": 277,
+    "timeDay": 295,
+    "timeWeek": 278,
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "icon": "assets/octopus.png",
     "slug": "diaspora-action-provider",
     "status": "down",
-    "uptime": "68.84%",
+    "uptime": "68.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.64%",
+    "uptimeYear": "47.62%",
     "time": 273,
-    "timeDay": 263,
+    "timeDay": 265,
     "timeWeek": 259,
     "timeMonth": 266,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-01-30": 1404,
+      "2026-01-31": 111,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -236,7 +237,7 @@
     "icon": "assets/kafka-ui.png",
     "slug": "diaspora-kafka-console",
     "status": "down",
-    "uptime": "67.46%",
+    "uptime": "67.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -247,7 +248,8 @@
     "timeMonth": 0,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2026-01-30": 1404,
+      "2026-01-31": 111,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -420,8 +422,7 @@
       "2025-02-04": 410,
       "2025-02-03": 1019,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   }
 ]
